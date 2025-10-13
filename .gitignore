@@ -1,0 +1,4 @@
+.direnv
+output/*
+!output/Case_Study.html
+!output/Case_Study.pdf
