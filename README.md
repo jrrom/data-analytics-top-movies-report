@@ -8,7 +8,9 @@ Build command:
 
 ```r
 rmarkdown::render("Case_Study.Rmd", output_dir = "output/", output_format = "all")
+```
 
+```bash
 mv output/Case_Study.html output/index.html
 ```
 Thank you for checking out my report. 
