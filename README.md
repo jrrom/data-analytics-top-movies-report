@@ -4,4 +4,9 @@ Made as a university project for my Data Analytics course. Uses [R](https://www.
 
 The main code is in `Case_Study.Rmd`, all output documents are in `docs`.
 
+Build command:
+
+```r
+rmarkdown::render("Case_Study.Rmd", output_dir = "output/", output_format = "all")
+```
 Thank you for checking out my report. 
